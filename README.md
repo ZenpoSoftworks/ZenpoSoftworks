@@ -1,5 +1,4 @@
-### Hi there 👋
+### 👋Hi there, I'm Zenpo
 
-- 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning with help from [docs.github.com](https://docs.github.com/)
-- 💬 Ask me about GitHub
+- 🔭 I’m currently working on updating Zenxware
+- 🌱 I’m currently learning Lua
