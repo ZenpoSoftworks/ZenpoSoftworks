@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi there, I'm Zenpo
+
+🔭 I’m currently working on Zenxware
+🌱 I’m currently learning Lua
 
 <!--
 **ZenpoSoftworks/ZenpoSoftworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
