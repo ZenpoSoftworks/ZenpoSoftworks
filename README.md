@@ -1,5 +1,5 @@
 <pre>
-hello, this is
-   just an     example
-....
+### 👋 Hi there, I'm Zenpo
+-🔭 I’m currently working on Zenxware
+🌱 I’m currently learning Lua
 </pre>
